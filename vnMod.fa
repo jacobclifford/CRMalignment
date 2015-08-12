@@ -1,0 +1,70 @@
+#NEXUS
+[saved by seaview on Tue May 21 10:05:01 2013]
+BEGIN DATA;
+  DIMENSIONS NTAX=12 NCHAR=18;
+  FORMAT DATATYPE=DNA
+  GAP=-
+  ;
+MATRIX
+[1] vnana
+GGCCGGAAATTCCCTT
+--
+[2] C_vnere
+GGCCGGAAATTCCCC
+---
+[3] C_vngri
+GGCCGGAAATTCCCC
+---
+[4] vnmel
+GGCCGGAAATTCCCC
+---
+[5] vnmoj
+GCCGGAAATTCCCCGT
+--
+[6] vnper
+GGCCGGAAATTCCCATGC
+[7] vnpse
+GGCCGGAAATTCCCATGC
+[8] C_vnsec
+GGCCGGAAATTCCCC
+---
+[9] vnsim
+GGCCGGAAATTCCCC
+---
+[10] vnvir
+GTGCCGGAAATTCCCC
+--
+[11] vnwil
+GATGCCGGAAATTCCC
+--
+[12] vnyak
+GGCCGGAAATTCCCC
+---
+;
+END;
+BEGIN NOTES;
+  TEXT TAXON=1 TEXT='no comment
+';
+  TEXT TAXON=2 TEXT='no comment
+';
+  TEXT TAXON=3 TEXT='no comment
+';
+  TEXT TAXON=4 TEXT='no comment
+';
+  TEXT TAXON=5 TEXT='no comment
+';
+  TEXT TAXON=6 TEXT='no comment
+';
+  TEXT TAXON=7 TEXT='no comment
+';
+  TEXT TAXON=8 TEXT='no comment
+';
+  TEXT TAXON=9 TEXT='no comment
+';
+  TEXT TAXON=10 TEXT='no comment
+';
+  TEXT TAXON=11 TEXT='no comment
+';
+  TEXT TAXON=12 TEXT='no comment
+';
+END;

@@ -1,0 +1,16 @@
+>brkmel
+ggaaagcccca
+>2sogSmel
+ggaaattccca
+>1sogSmel
+ggaaattccca
+>vnmel
+ggaaattcccc
+>2vndmel
+ggaaaaccgga
+>vndmel
+gggaaacccca
+>2rhomel
+ggaaattcccg
+>rhomel
+ggaaattccgc
